@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @tilakved
+Hiii!!
+- 👋 I’m @tilakved
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me tilakved3898@gmail.com
